@@ -2,7 +2,7 @@
 - 👀 I’m interested in solving problems so id like to be a quant one day
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on anything rly
-- 📫 How to reach me isfibcompshd@gmail.com
+- 📫 How to reach me is fibcompshd@gmail.com
 - ⚡ Fun fact: ummm...
 pls do not mind all the emojis.. i just used the format github gave me (i deleted the pronouns one cuz i dont indulge in that stuff)
 <!---
